@@ -1,0 +1,22 @@
+.production-service {
+  font-size: 90px;
+}
+
+.service-title {
+  float:left;
+  font-size: 40px;
+  font-family:"Merriweather";
+}
+
+.service-description {
+  float:left;
+  text-align: left;
+  font-family: "effra";
+  font-size: 20px;
+}
+
+#production {
+  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('http://previews.123rf.com/images/serezniy/serezniy1108/serezniy110801481/10394978-sewing-machine-and-blue-fabric-Stock-Photo-garment.jpg') fixed center;
+  background-size: 100%;
+  text-align: center;
+}

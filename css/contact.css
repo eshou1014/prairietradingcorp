@@ -1,0 +1,5 @@
+#contact {
+  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('http://cdn.newsday.com/polopoly_fs/1.11885903.1465302600!/httpImage/image.jpeg_gen/derivatives/landscape_1280/image.jpeg') fixed center;
+  background-size: 100%;
+  text-align: center;
+}
